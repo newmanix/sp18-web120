@@ -1,0 +1,4 @@
+[18-Apr-2018 21:55:00 America/Chicago] PHP Warning:  include(portal-config.php): failed to open stream: No such file or directory in /home3/newmanix/public_html/site48/web120/includes/header.php on line 1
+[18-Apr-2018 21:55:00 America/Chicago] PHP Warning:  include(portal-config.php): failed to open stream: No such file or directory in /home3/newmanix/public_html/site48/web120/includes/header.php on line 1
+[18-Apr-2018 21:55:00 America/Chicago] PHP Warning:  include(): Failed opening 'portal-config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/newmanix/public_html/site48/web120/includes/header.php on line 1
+[18-Apr-2018 22:51:01 America/Chicago] PHP Fatal error:  Call to undefined function makeLinks() in /home3/newmanix/public_html/site48/web120/includes/header.php on line 22
